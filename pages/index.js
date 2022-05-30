@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
 
       <header className={styles.header}>
-        <h1 className={styles.title}>سفارش غرفه نمایشگاه</h1>
+        <h1 className={styles.title}>طراحی و اجرای غرفه نمایشگاهی</h1>
       </header>
 
       <main className={styles.main}>
