@@ -31,7 +31,7 @@ export default function Home() {
             Fereshteahanj@gmail.com
           </a>
           <a href="tel:+982166196522" className={styles.code}>
-            +982166196522
+            66196522
           </a>
         </div>
       </main>
