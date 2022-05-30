@@ -19,6 +19,7 @@ export default function Home() {
       </header>
 
       <main className={styles.main}>
+        <div className={styles.bg} />
         <div className={styles.flexCenter}>
           <h2 className={styles.subtitle}>طراحی غرفه نمایشگاه</h2>
           <h2 className={styles.subtitle}>ساخت غرفه نمایشگاه</h2>

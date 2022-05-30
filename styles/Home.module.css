@@ -7,7 +7,7 @@
   justify-content: space-around;
   align-items: center;
   padding: 0 2rem;
-  background-color: #fcd8d8;
+  position: relative;
 }
 
 .header {
@@ -59,7 +59,17 @@
 .title a:active {
   text-decoration: underline;
 }
-
+.bg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  opacity: 0.3;
+  background-image: url("../public/booth.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 .title {
   margin: 0;
   margin-bottom: 2rem;
