@@ -7,17 +7,19 @@
   justify-content: space-around;
   align-items: center;
   padding: 0 2rem;
+  background-color: #e5ecf7;
 }
 
 .header {
   height: 85px;
   display: flex;
   flex: 1;
-  padding: 2rem 0 0;
+  padding: 2.5rem 0 0;
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
-  background-color: #aeaeae;
+  color: #e5ecf7;
+  background-color: #3a397e;
 }
 
 .footer {
@@ -28,6 +30,8 @@
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  background-color: #3a397e;
+  color: #e5ecf7;
 }
 
 .flexCenter {
@@ -65,8 +69,11 @@
 
 .subtitle {
   margin: 0;
+  padding: 1rem 0;
   line-height: 1.15;
-  font-size: 2rem;
+  font-size: 1.5rem;
+  border-bottom: 1px gray solid;
+  border-top: 1px gray solid;
 }
 
 .title,
@@ -84,6 +91,7 @@
   background: #fafafa;
   border-radius: 5px;
   padding: 0.75rem;
+  margin-top: 1rem;
   font-size: 1.1rem;
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
     Bitstream Vera Sans Mono, Courier New, monospace;

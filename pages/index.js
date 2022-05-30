@@ -30,8 +30,8 @@ export default function Home() {
           <a href="mailto:Fereshteahanj@gmail.com" className={styles.code}>
             Fereshteahanj@gmail.com
           </a>
-          <a href="tel:09376541563" className={styles.code}>
-            09376541563
+          <a href="tel:+982166196522" className={styles.code}>
+            +982166196522
           </a>
         </div>
       </main>
